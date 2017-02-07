@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{605AF49E-AF53-4095-8469-D0D8DBAB9327}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WormholeServer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

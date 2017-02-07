@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WormholeClient", "WormholeClient\WormholeClient.csproj", "{CFA12A95-AFDC-4EFD-8013-4BE4E76AA08D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wormhole", "Wormhole\Wormhole.csproj", "{37C72807-A063-44CE-8777-5E9AB01CF68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WormholeServer", "WormholeServer\WormholeServer.csproj", "{8815DCAC-2755-4AB4-B7E6-B048240680CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CFA12A95-AFDC-4EFD-8013-4BE4E76AA08D}.Debug.ActiveCfg = Debug|.NET
+		{CFA12A95-AFDC-4EFD-8013-4BE4E76AA08D}.Debug.Build.0 = Debug|.NET
+		{CFA12A95-AFDC-4EFD-8013-4BE4E76AA08D}.Release.ActiveCfg = Release|.NET
+		{CFA12A95-AFDC-4EFD-8013-4BE4E76AA08D}.Release.Build.0 = Release|.NET
+		{37C72807-A063-44CE-8777-5E9AB01CF68A}.Debug.ActiveCfg = Debug|.NET
+		{37C72807-A063-44CE-8777-5E9AB01CF68A}.Debug.Build.0 = Debug|.NET
+		{37C72807-A063-44CE-8777-5E9AB01CF68A}.Release.ActiveCfg = Release|.NET
+		{37C72807-A063-44CE-8777-5E9AB01CF68A}.Release.Build.0 = Release|.NET
+		{8815DCAC-2755-4AB4-B7E6-B048240680CE}.Debug.ActiveCfg = Debug|.NET
+		{8815DCAC-2755-4AB4-B7E6-B048240680CE}.Debug.Build.0 = Debug|.NET
+		{8815DCAC-2755-4AB4-B7E6-B048240680CE}.Release.ActiveCfg = Release|.NET
+		{8815DCAC-2755-4AB4-B7E6-B048240680CE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
